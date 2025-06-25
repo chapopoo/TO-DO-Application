@@ -14,7 +14,7 @@ A simple and intuitive to-do list application built with HTML, CSS, and JavaScri
 
 📸 Preview
 
-![To-Do App Demo](https://chapopoo.github.io/TO-DO-Application/)
+[To-Do App Demo](https://chapopoo.github.io/TO-DO-Application/)
 
 
 
