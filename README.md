@@ -1,4 +1,4 @@
-📝 TO-DO Application
+📝 TO-DO Application<br>
 A simple and intuitive to-do list application built with HTML, CSS, and JavaScript.<br> Manage your tasks effectively with features like adding, editing, and deleting tasks.
 
 ---
