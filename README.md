@@ -5,7 +5,7 @@ A simple and intuitive to-do list application built with HTML, CSS, and JavaScri
 The project is organized into the following files:
 
 🚀 Features
-Add tasks: Create new tasks with titles and descriptions.
+Add tasks: Create new tasks with titles and descriptions.<br>
 Edit tasks: Modify existing tasks to update details.(In progress)
 Delete tasks: Remove tasks that are no longer needed.
 Mark tasks as completed: Track the progress of your tasks.
