@@ -6,7 +6,7 @@ The project is organized into the following files:
 
 🚀 Features
 Add tasks: Create new tasks with titles and descriptions.<br>
-Edit tasks: Modify existing tasks to update details.(In progress)
-Delete tasks: Remove tasks that are no longer needed.
-Mark tasks as completed: Track the progress of your tasks.
-Responsive design: Optimized for both desktop and mobile views.
+Edit tasks: Modify existing tasks to update details.<br>
+Delete tasks: Remove tasks that are no longer needed.<br>
+Mark tasks as completed: Track the progress of your tasks.<br>
+Responsive design: Optimized for both desktop and mobile views.(In Progress).
