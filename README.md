@@ -3,7 +3,7 @@ A simple and intuitive to-do list application built with HTML, CSS, and JavaScri
 
 ---
 
-🚀 Features
+🚀 Features<br>
 ✏️ Add tasks: Create new tasks with titles and descriptions.<br>
 🛠️ Edit tasks: Modify existing tasks to update details.<br>
 ❌ Delete tasks: Remove tasks that are no longer needed.<br>
